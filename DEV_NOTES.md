@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Noted known limitation in docs
 - Added CONTRIBUTING.md stub
 - Added healthcheck endpoint stub
+
+## 2026-04-15
+- Wrote notes on upcoming feature design
+- Added CONTRIBUTING.md stub
